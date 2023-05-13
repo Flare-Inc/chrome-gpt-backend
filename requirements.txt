@@ -3,3 +3,4 @@ flask_cors
 openai
 python-dotenv
 beautifulsoup4
+scipy
